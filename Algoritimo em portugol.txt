@@ -1,0 +1,17 @@
+Algoritimo em portugol da hora de acordar:
+Início
+
+1.Abrir os olhos;
+2.Levantar da cama;
+3.Arrumar a cama;
+4.Ir até o banheiro;
+5.Escovar os dentes;
+6.Arruma o cabelo;
+7.Trocar de roupa;
+8.Ir para cozinha;
+9.Preparar o pão;
+10.Fazer o café;
+11.Comer o pão;
+12. Tomar o café;
+
+Fim
